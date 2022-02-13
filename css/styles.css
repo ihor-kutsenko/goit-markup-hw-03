@@ -377,15 +377,13 @@ img {
 .filter-list {
   display: flex;
   justify-content: center;
-}
-
-.filter-buttons {
-  margin-bottom: 34px;
+  margin-bottom: 50px;
 }
 
 .filter-list-item:not(:last-child) {
   margin-right: 8px;
 }
+/*  START PROJECTS CARD */
 
 .projects-list {
   display: flex;
